@@ -6,4 +6,4 @@ You can find this project [here](https://getwatch.netlify.app/).
 
 ## Github link
 
-[Git](https://github.com/jinbest/react-landing-page).
+[Git](https://github.com/gitexpert718/react-landing-page-watch).
