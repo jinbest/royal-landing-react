@@ -42,7 +42,7 @@ export default function Footer() {
       </div>
 
       <div className='copyright'>
-        <p>&copy; Reactify by Aashish Maharjan, 2020</p>
+        <p>&copy; Create by Jin Zheng, 2020</p>
       </div>
     </footer>
   )
