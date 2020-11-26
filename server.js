@@ -31,8 +31,8 @@ app.post("/api/send_email", function(req, res) {
   res.end("ok");  
   
   const mailOptions = {
-    from: "From KoTDev's Webite <jin.bestvictoria718@gmail.com>",
-    to: 'kotdevops@gmail.com',
+    from: "From Landing Page <jin.bestvictoria718@gmail.com>",
+    to: 'jin.bestvictoria718@gmail.com',
     subject: data.subject,
     text: JSON.stringify(data)
   };
