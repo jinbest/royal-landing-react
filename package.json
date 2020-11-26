@@ -2,6 +2,7 @@
   "name": "product_landing_page",
   "version": "0.1.0",
   "private": true,
+  "author": "jin",
   "homepage": "",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.11",
