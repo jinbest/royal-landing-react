@@ -354,6 +354,29 @@ section {
   background-color: #ffffff;
 }
 
+
+/* .about-section {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  background-color: #5f5050;
+  padding: 250px 0 200px;
+}
+
+.about-section::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 112px;
+  background-image: url('../img/shape-bg.png');
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  z-index: -1;
+} */
+
 .about-section .about-img {
   margin: auto;
 }
